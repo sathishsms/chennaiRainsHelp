@@ -1,0 +1,279 @@
+>>Seeker
+around.*now.*\?
+now.*around.*\?
+now.*around
+need.*help
+help.*need[ed]?
+need.*help.*to.*contact
+needed
+volunteers?
+volunteer?
+pregnant.*lady.*stuck
+need[s]?.*help
+need.*without.*if
+How.*is
+any.*information
+any.*info
+Does.*anyone.*-.*.*need
+can.*someone.*
+someone.*can
+available\?
+
+>>aHelper
+if.*you.*need
+Ready.*to.*help
+available\s+
+available.*contact
+available.*call
+\bif\b.*need
+if.*call
+if.*contact
+if.*needed
+food.*pockets+.*call
+volunteers.*\?
+volunteers.*\?
+needed\?
+need.*\?
+available
+give
+
+
+>>cCategory
+medicine
+blanket
+food
+milk
+medical
+napkin
+Nightiees 
+t-shirts 
+saree
+doctor
+doctors
+mosquito coil
+tooth paste
+mosquito
+biscuits
+breads
+pai
+blankets
+gynecologist
+volunteer
+donation
+water bottle 
+bottle
+drinking water
+purified water
+sintex tank
+power bank
+battery bank
+mobile recharge
+petrol
+oxygen cylinder
+oxygen
+
+>>Areas
+velachery
+tambaram
+kothari
+nookampalayam
+mylapore
+porur lake
+porur
+madipakkam
+chetpet
+Pallikaranai
+Ramapuram
+kotturpuram
+villivakkam
+loyola college
+ashok Nagar
+ashokNagar
+iyappanthangal
+kasi theater
+kasi theatre
+guindy
+mudichur
+Vettuvankeni
+anna salai
+british council
+kodambakkam
+villivakkam
+tamparam
+LIC Nagar
+vyasarpadi
+saidai
+Ramapuram
+Maduravayal
+Porur
+valasaravakkam
+west mambalam
+tnagar
+t-nagar
+saidpet
+royapuram
+virugambakkam
+puzhuthivakkam
+sowcarpet
+egmore
+madras school
+adambakkam
+adyar
+alandur
+alwarpet
+alwarthirunagar
+ambattur
+aminjikarai
+anakaputhur
+anna Nagar
+annanur
+arumbakkam
+ashok Nagar
+avadi
+Ayanavaram
+Besant Nagar
+Basin Bridge
+Chepauk
+Chetput
+Chintadripet
+Chitlapakkam
+Choolai
+Choolaimedu
+Chrompet
+Egmore
+Ekkaduthangal
+Ennore
+Foreshore Estate
+Fort St. George
+George Town
+Gopalapuram
+Government Estate
+Guindy
+Guduvanchery
+IIT Madras
+Injambakkam
+ICF
+Iyyapanthangal
+Jafferkhanpet
+Karapakkam
+Kattivakkam
+Kazhipattur
+K.K. Nagar
+Keelkattalai
+Kelambakkam
+Kilpauk
+Kodambakkam
+Kodungaiyur
+Kolathur
+Korattur
+Korukkupet
+Kottivakkam
+Kotturpuram
+Kottur
+Kovalam
+Kovilambakkam
+Koyambedu
+Kundrathur
+Madhavaram
+Madhavaram Milk Colony
+Madipakkam
+Madambakkam
+Maduravoyal
+Manali
+Manali New Town
+Manapakkam
+Mandaveli
+Mangadu
+Mannadi
+Mathur
+Medavakkam
+Meenambakkam
+Minjur
+Mogappair
+MKB Nagar
+Mount Road
+Moolakadai
+Moulivakkam
+Mugalivakkam
+Mylapore
+Nandanam
+Nanganallur
+Navalur
+Neelankarai
+Nemilichery
+Nesapakkam
+Nolambur
+Noombal
+Nungambakkam
+Ottery
+Padi
+Pakkam
+Palavakkam
+Pallavaram
+Pallikaranai
+Pammal
+Park Town
+Parrys Corner
+Pattabiram
+Pattaravakkam
+Pazhavanthangal
+Peerkankaranai
+Perambur
+Peravallur
+Perumbakkam
+Perungalathur
+Perungudi
+Pozhichalur
+Poonamallee
+Porur
+Pudupet
+Purasaiwalkam
+Puthagaram
+Puzhal
+Puzhuthivakkam
+Raj Bhavan
+Ramavaram
+Red Hills
+Royapettah
+Royapuram
+Saidapet
+Saligramam
+Santhome
+Selaiyur
+Shenoy Nagar
+Sholavaram
+Sholinganallur
+Sithalapakkam
+Sowcarpet
+St.Thomas Mount
+Tambaram
+Teynampet
+Tharamani
+T. Nagar
+Thirumangalam
+annanagar
+Thirumullaivoyal
+Thiruneermalai
+Thiruninravur
+Thiruvanmiyur
+Tiruverkadu
+Thiruvotriyur
+Tirusulam
+Tiruvallikeni
+Tondiarpet
+United India Colony
+Urapakkam
+Vandalur
+Vadapalani
+Valasaravakkam
+Vallalar Nagar
+Vanagaram
+Velachery
+Veppampattu
+Villivakkam
+Virugambakkam
+Vyasarpadi
+Washermanpet
+Kummidipondi
+West Mambalam
+openarea
